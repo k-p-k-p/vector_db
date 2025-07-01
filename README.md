@@ -26,11 +26,11 @@ vector_db/ <br>
 ## 🚀 How to Run
 
 1. **Clone the repo**
-   ```bash
+
    ```git clone https://github.com/your-username/vector_db.git```
    ```cd vector_db ```
 
-2. **Install dependencies**
+3. **Install dependencies**
 
 ```pip install -r requirements.txt```
 
