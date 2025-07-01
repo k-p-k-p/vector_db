@@ -30,7 +30,7 @@ vector_db/ <br>
 ```git clone https://github.com/your-username/vector_db.git```<br>
 ```cd vector_db ```
 
-3. **Install dependencies**
+2. **Install dependencies**
 
 ```pip install -r requirements.txt```
 
