@@ -12,12 +12,12 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline usin
 ## 📁 Folder Structure
 
 vector_db/
-├── notebook.ipynb # Main Jupyter notebook with code
-├── docs/ # Your local PDFs
-├── vector_store/ # Chroma vector storage (auto-generated)
-├── .env # API key (not included in repo)
-├── .gitignore
-├── requirements.txt
+├── notebook.ipynb # Main Jupyter notebook with code \n
+├── docs/ # Your local PDFs \n
+├── vector_store/ # Chroma vector storage (auto-generated) \n
+├── .env # API key (not included in repo) \n
+├── .gitignore \n
+├── requirements.txt \n
 └── README.md
 
 
