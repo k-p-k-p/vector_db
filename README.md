@@ -27,8 +27,8 @@ vector_db/ <br>
 
 1. **Clone the repo**
 
-   ```git clone https://github.com/your-username/vector_db.git```
-   ```cd vector_db ```
+```git clone https://github.com/your-username/vector_db.git```<br>
+```cd vector_db ```
 
 3. **Install dependencies**
 
