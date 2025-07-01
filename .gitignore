@@ -1,0 +1,15 @@
+# Ignore API/environment secrets
+.env
+
+# Ignore vector DB storage
+vector_store/
+
+# Ignore Jupyter and Python junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+*.DS_Store
+
+#docs contents
+docs/

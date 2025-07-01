@@ -1,0 +1,46 @@
+# 🔍 RAG with Groq + LangChain + ChromaDB
+
+This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using:
+
+- 💬 [Groq](https://groq.com/) — fast inference with LLaMA or Gemma
+- 🧠 LangChain — document parsing, chunking, and chaining
+- 📄 Local PDFs — user-loaded documents
+- 🧷 ChromaDB — local vector store for embeddings
+
+---
+
+## 📁 Folder Structure
+
+vector_db/
+├── notebook.ipynb # Main Jupyter notebook with code
+├── docs/ # Your local PDFs
+├── vector_store/ # Chroma vector storage (auto-generated)
+├── .env # API key (not included in repo)
+├── .gitignore
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repo**
+   ```bash
+   ```git clone https://github.com/your-username/vector_db.git```
+   ```cd vector_db ```
+
+2. **Install dependencies**
+
+```pip install -r requirements.txt```
+
+3. **Add your Groq API key**
+
+Create a .env file with:
+
+```GROQ_API_KEY=your_api_key_here```
+
+4. **Add your PDFs to the docs/ folder.**
+
+Open the notebook
+Run `notebook.ipynb` in Jupyter and follow the steps.
